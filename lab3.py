@@ -1,6 +1,6 @@
 from math import *
 print ('Створення прикладних програм на мові Python, Lab3')
-print ('Гуцуляк Андрій, Num8')
+print ('Бандурак Андрій, Num2')
 print('Введи:')
 x = float(input('x = '))
 b = float(input('b = '))
